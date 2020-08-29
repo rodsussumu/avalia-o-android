@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NacAndroidCative</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar_se">registrar-se</string>
+    <string name="registrar">Registrar</string>
+    <string name="voltar_para_login">Voltar para login</string>
+    <string name="campos_preenchidos">Todos os campos devem ser preenchidos</string>
+    <string name="bem_vindo">Bem-vindo!!!!!!!!!</string>
+    <string name="logout">Logout</string>
+</resources>
